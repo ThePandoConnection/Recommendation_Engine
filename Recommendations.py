@@ -18,12 +18,11 @@ import matplotlib.pyplot as plt
 df = pandas.read_csv("movies.csv")
 
 d = {'UK': 0, 'USA': 1, 'N': 2}
-df['Nationality'] = df['Nationality'].map(d)
 
 features = ['year', 'genre', 'avg_vote', 'votes', 'go']
 
 X = df[features]
-y = df['Go']
+y = df['go']
 
 dtree = DecisionTreeClassifier()
 dtree = dtree.fit(X, y)
