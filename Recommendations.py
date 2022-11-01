@@ -1,12 +1,25 @@
 '''
 genre key:
-0 =
-1 =
-2 =
-3 =
-4 =
-5 =
-6 =
+0 = Action
+1 = Adventure
+2 = Animation
+3 = Biography
+4 = Comedy
+5 = Crime
+6 = Drama
+7 = Fantasy
+8 = Family
+9 = Film-Noir
+10 = History
+11 = Horror
+12 = Musical
+13 = Music
+14 = Mystery
+15 = Romance
+16 = Sci-Fi
+17 = Thriller
+18 = War
+19 = Western
 
 '''
 
@@ -17,7 +30,6 @@ import matplotlib.pyplot as plt
 
 df = pandas.read_csv("movies.csv")
 
-d = {'UK': 0, 'USA': 1, 'N': 2}
 
 features = ['year', 'genre', 'avg_vote', 'votes', 'go']
 
