@@ -31,7 +31,7 @@ import matplotlib.pyplot as plt
 df = pandas.read_csv("movies.csv")
 
 
-features = ['year', 'genre', 'avg_vote', 'votes', 'go']
+features = ['year', 'genre', 'avg_vote', 'votes']
 
 X = df[features]
 y = df['go']

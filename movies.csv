@@ -1,101 +1,101 @@
 imdb_title_id,original_title,year,genre,director,avg_vote,votes,go
 tt0111161,The Shawshank Redemption,1994,6,Frank Darabont,9.3,2278845,0
-tt0068646,The Godfather,1972,"5, 6",Francis Ford Coppola,9.2,1572674,0
-tt0071562,The Godfather: Part II,1974,"5, 6",Francis Ford Coppola,9,1098714,0
-tt0468569,The Dark Knight,2008,"0, 5, 6",Christopher Nolan,9,2241615,1
-tt0050083,12 Angry Men,1957,"5, 6",Sidney Lumet,8.9,668473,0
-tt0108052,Schindler's List,1993,"3, 6, 10",Steven Spielberg,8.9,1183248,0
-tt0110912,Pulp Fiction,1994,"5, 6",Quentin Tarantino,8.9,1780147,1
-tt0167260,The Lord of the Rings: The Return of the King,2003,"0, 1, 6",Peter Jackson,8.9,1604280,1
+tt0068646,The Godfather,1972,5,Francis Ford Coppola,9.2,1572674,0
+tt0071562,The Godfather: Part II,1974,5,Francis Ford Coppola,9,1098714,0
+tt0468569,The Dark Knight,2008,0,Christopher Nolan,9,2241615,1
+tt0050083,12 Angry Men,1957,5,Sidney Lumet,8.9,668473,0
+tt0108052,Schindler's List,1993,10,Steven Spielberg,8.9,1183248,0
+tt0110912,Pulp Fiction,1994,5,Quentin Tarantino,8.9,1780147,1
+tt0167260,The Lord of the Rings: The Return of the King,2003,1,Peter Jackson,8.9,1604280,1
 tt0060196,The Good The bad and The Ugly,1966,19,Sergio Leone,8.8,672499,0
-tt0109830,Forrest Gump,1994,"6, 15",Robert Zemeckis,8.8,1755490,1
-tt0120737,The Lord of the Rings: The Fellowship of the Ring,2001,"0, 1, 6",Peter Jackson,8.8,1619920,1
+tt0109830,Forrest Gump,1994,15,Robert Zemeckis,8.8,1755490,1
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,2001,1,Peter Jackson,8.8,1619920,1
 tt0137523,Fight Club,1999,6,David Fincher,8.8,1807440,0
-tt1375666,Inception,2010,"0, 1, 16",Christopher Nolan,8.8,2002816,0
-tt5813916,Dag II,2016,"0, 6, 18",Alper Caglar,8.8,103949,0
-tt8110330,Dil Bechara,2020,"4, 6, 15",Mukesh Chhabra,8.8,101686,0
+tt1375666,Inception,2010,16,Christopher Nolan,8.8,2002816,0
+tt5813916,Dag II,2016,0,Alper Caglar,8.8,103949,0
+tt8110330,Dil Bechara,2020,15,Mukesh Chhabra,8.8,101686,0
 tt0073486,One Flew Over the Cuckoo's Nest,1975,6,Milos Forman,8.7,891071,0
-tt0080684,Star Wars: Episode V - The Empire Strikes Back,1980,"0, 1, 7",Irvin Kershner,8.7,1132073,0
-tt0099685,Goodfellas,1990,"3, 5, 6",Martin Scorsese,8.7,991505,0
-tt0133093,The Matrix,1999,"0, 16","Lana Wachowski, Lilly Wachowski",8.7,1632315,0
-tt0167261,The Lord of the Rings: The Two Towers,2002,"0, 1, 6",Peter Jackson,8.7,1449778,1
-tt0038650,It's a Wonderful Life,1946,"6, 8, 7",Frank Capra,8.6,388310,0
-tt0047478,Shichinin no samurai,1954,"0, 1, 6",Akira Kurosawa,8.6,307958,0
-tt0076759,Star Wars,1977,"0, 1, 7",George Lucas,8.6,1204107,0
-tt0102926,The Silence of the Lambs,1991,"5, 6, 17",Jonathan Demme,8.6,1234134,0
-tt0114369,Se7en,1995,"5, 6, 14",David Fincher,8.6,1402015,0
-tt0118799,Life is Beautiful,1997,"4, 6, 15",Roberto Benigni,8.6,605648,0
-tt0120689,The Green Mile,1999,"5, 6, 7",Frank Darabont,8.6,1112336,0
-tt0120815,Saving Private Ryan,1998,"6, 18",Steven Spielberg,8.6,1203825,0
-tt0245429,Spirited Away,2001,"2, 1, 8",Hayao Miyazaki,8.6,626693,0
-tt0317248,City of God,2002,"5, 6","Fernando Meirelles, Kátia Lund",8.6,685856,0
-tt0816692,Interstellar,2014,"1, 6, 16",Christopher Nolan,8.6,1449256,0
-tt6751668,Parasite,2019,"4, 6, 17",Bong Joon Ho,8.6,470931,0
-tt0021749,City Lights,1931,"4, 6, 15",Charles Chaplin,8.5,162668,0
-tt0027977,Modern Times,1936,"4, 6, 8",Charles Chaplin,8.5,211250,0
-tt0034583,Casablanca,1942,"6, 15, 18",Michael Curtiz,8.5,509953,0
-tt0054215,Psycho,1960,"11, 14, 17",Alfred Hitchcock,8.5,586765,0
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,1980,7,Irvin Kershner,8.7,1132073,0
+tt0099685,Goodfellas,1990,5,Martin Scorsese,8.7,991505,0
+tt0133093,The Matrix,1999,16,"Lana Wachowski, Lilly Wachowski",8.7,1632315,0
+tt0167261,The Lord of the Rings: The Two Towers,2002,1,Peter Jackson,8.7,1449778,1
+tt0038650,It's a Wonderful Life,1946,8,Frank Capra,8.6,388310,0
+tt0047478,Shichinin no samurai,1954,0,Akira Kurosawa,8.6,307958,0
+tt0076759,Star Wars,1977,7,George Lucas,8.6,1204107,0
+tt0102926,The Silence of the Lambs,1991,17,Jonathan Demme,8.6,1234134,0
+tt0114369,Se7en,1995,14,David Fincher,8.6,1402015,0
+tt0118799,Life is Beautiful,1997,15,Roberto Benigni,8.6,605648,0
+tt0120689,The Green Mile,1999,6,Frank Darabont,8.6,1112336,0
+tt0120815,Saving Private Ryan,1998,18,Steven Spielberg,8.6,1203825,0
+tt0245429,Spirited Away,2001,2,Hayao Miyazaki,8.6,626693,0
+tt0317248,City of God,2002,5,"Fernando Meirelles, Kátia Lund",8.6,685856,0
+tt0816692,Interstellar,2014,16,Christopher Nolan,8.6,1449256,0
+tt6751668,Parasite,2019,6,Bong Joon Ho,8.6,470931,0
+tt0021749,City Lights,1931,15,Charles Chaplin,8.5,162668,0
+tt0027977,Modern Times,1936,8,Charles Chaplin,8.5,211250,0
+tt0034583,Casablanca,1942,15,Michael Curtiz,8.5,509953,0
+tt0054215,Psycho,1960,17,Alfred Hitchcock,8.5,586765,0
 tt0064116,Once Upon a Time in the West,1968,19,Sergio Leone,8.5,295220,0
-tt0088763,Back to the Future,1985,"1, 4, 16",Robert Zemeckis,8.5,1027330,1
-tt0095327,Grave of the Fireflies,1988,"2, 6, 18",Isao Takahata,8.5,225438,0
+tt0088763,Back to the Future,1985,16,Robert Zemeckis,8.5,1027330,1
+tt0095327,Grave of the Fireflies,1988,18,Isao Takahata,8.5,225438,0
 tt0095765,Cinema Paradiso,1988,6,Giuseppe Tornatore,8.5,223050,0
-tt0103064,Terminator 2: Judgment Day,1991,"0, 16",James Cameron,8.5,974970,0
-tt0110357,The Lion King,1994,"2, 1, 6","Roger Allers, Rob Minkoff",8.5,917248,1
-tt0110413,Leon,1994,"0, 5, 6",Luc Besson,8.5,1007598,0
-tt0114814,The Usual Suspects,1995,"5, 14, 17",Bryan Singer,8.5,968947,0
+tt0103064,Terminator 2: Judgment Day,1991,16,James Cameron,8.5,974970,0
+tt0110357,The Lion King,1994,2,"Roger Allers, Rob Minkoff",8.5,917248,1
+tt0110413,Leon,1994,0,Luc Besson,8.5,1007598,0
+tt0114814,The Usual Suspects,1995,14,Bryan Singer,8.5,968947,0
 tt0120586,American History X,1998,6,Tony Kaye,8.5,1014218,0
-tt0172495,Gladiator,2000,"0, 1, 6",Ridley Scott,8.5,1308193,1
-tt0253474,The Pianist,2002,"3, 6, 13",Roman Polanski,8.5,707942,0
-tt0407887,The Departed,2006,"5, 6, 17",Martin Scorsese,8.5,1159703,0
-tt0482571,The Prestige,2006,"6, 14, 16",Christopher Nolan,8.5,1155723,1
-tt1675434,Intouchables,2011,"3, 4, 6","Olivier Nakache, Éric Toledano",8.5,736691,1
-tt2582802,Whiplash,2014,"6, 13",Damien Chazelle,8.5,690732,0
-tt7286456,Joker,2019,"5, 6, 17",Todd Phillips,8.5,855097,0
-tt0032553,The Great Dictator,1940,"4, 6, 18",Charles Chaplin,8.4,197381,1
-tt0043014,Sunset Blvd.,1950,"6, 9",Billy Wilder,8.4,195789,0
-tt0047396,Rear Window,1954,"14, 17",Alfred Hitchcock,8.4,432390,0
-tt0050825,Paths of Glory,1957,"6, 18",Stanley Kubrick,8.4,172671,0
-tt0051201,Witness for the Prosecution,1957,"5, 6, 14",Billy Wilder,8.4,104524,0
+tt0172495,Gladiator,2000,0,Ridley Scott,8.5,1308193,1
+tt0253474,The Pianist,2002,13,Roman Polanski,8.5,707942,0
+tt0407887,The Departed,2006,17,Martin Scorsese,8.5,1159703,0
+tt0482571,The Prestige,2006,14,Christopher Nolan,8.5,1155723,1
+tt1675434,Intouchables,2011,4,"Olivier Nakache, Éric Toledano",8.5,736691,1
+tt2582802,Whiplash,2014,13,Damien Chazelle,8.5,690732,0
+tt7286456,Joker,2019,17,Todd Phillips,8.5,855097,0
+tt0032553,The Great Dictator,1940,4,Charles Chaplin,8.4,197381,1
+tt0043014,Sunset Blvd.,1950,9,Billy Wilder,8.4,195789,0
+tt0047396,Rear Window,1954,14,Alfred Hitchcock,8.4,432390,0
+tt0050825,Paths of Glory,1957,18,Stanley Kubrick,8.4,172671,0
+tt0051201,Witness for the Prosecution,1957,14,Billy Wilder,8.4,104524,0
 tt0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,4,Stanley Kubrick,8.4,441115,0
-tt0078748,Alien,1979,"11, 16",Ridley Scott,8.4,768874,0
-tt0078788,Apocalypse Now,1979,"6, 14, 18",Francis Ford Coppola,8.4,591251,0
-tt0081505,The Shining,1980,"6, 11",Stanley Kubrick,8.4,869480,0
-tt0082971,Raiders of the Lost Ark,1981,"0, 1",Steven Spielberg,8.4,865510,0
-tt0087843,Once Upon a Time in America,1984,"5, 6",Sergio Leone,8.4,302317,0
-tt0119698,Princess Mononoke,1997,"2, 1, 7",Hayao Miyazaki,8.4,331045,0
-tt0209144,Memento,2000,"14, 17",Christopher Nolan,8.4,1098879,1
-tt0364569,Oldeuboi,2003,"0, 6, 14",Chan-wook Park,8.4,501082,0
-tt0405094,Das Leben der Anderen,2006,"6, 14, 17",Florian Henckel von Donnersmarck,8.4,349642,0
-tt0910970,WALL-E,2008,"2, 1, 8",Andrew Stanton,8.4,974734,1
-tt0986264,Taare Zameen Par,2007,"6, 8","Aamir Khan, Amole Gupte",8.4,161867,0
-tt1187043,3 Idiots,2009,"4, 6",Rajkumar Hirani,8.4,332217,0
-tt1345836,The Dark Knight Rises,2012,"0, 1",Christopher Nolan,8.4,1480582,1
-tt1853728,Django Unchained,2012,"6, 19",Quentin Tarantino,8.4,1317856,1
-tt2380307,Coco,2017,"2, 1, 8","Lee Unkrich, Adrian Molina",8.4,352455,0
-tt4154756,Avengers: Infinity War,2018,"0, 1, 16","Anthony Russo, Joe Russo",8.4,796486,1
-tt4154796,Avengers: Endgame,2019,"0, 1, 6","Anthony Russo, Joe Russo",8.4,754786,1
-tt4633694,Spider-Man: Into the Spider-Verse,2018,"2, 0, 1","Bob Persichetti, Peter Ramsey",8.4,335892,0
-tt5074352,Dangal,2016,"0, 3, 6",Nitesh Tiwari,8.4,147907,0
-tt5311514,Your Name,2016,"2, 6, 7",Makoto Shinkai,8.4,178480,0
+tt0078748,Alien,1979,16,Ridley Scott,8.4,768874,0
+tt0078788,Apocalypse Now,1979,14,Francis Ford Coppola,8.4,591251,0
+tt0081505,The Shining,1980,11,Stanley Kubrick,8.4,869480,0
+tt0082971,Raiders of the Lost Ark,1981,1,Steven Spielberg,8.4,865510,0
+tt0087843,Once Upon a Time in America,1984,5,Sergio Leone,8.4,302317,0
+tt0119698,Princess Mononoke,1997,2,Hayao Miyazaki,8.4,331045,0
+tt0209144,Memento,2000,14,Christopher Nolan,8.4,1098879,1
+tt0364569,Oldeuboi,2003,14,Chan-wook Park,8.4,501082,0
+tt0405094,Das Leben der Anderen,2006,14,Florian Henckel von Donnersmarck,8.4,349642,0
+tt0910970,WALL-E,2008,2,Andrew Stanton,8.4,974734,1
+tt0986264,Taare Zameen Par,2007,8,"Aamir Khan, Amole Gupte",8.4,161867,0
+tt1187043,3 Idiots,2009,4,Rajkumar Hirani,8.4,332217,0
+tt1345836,The Dark Knight Rises,2012,0,Christopher Nolan,8.4,1480582,1
+tt1853728,Django Unchained,2012,19,Quentin Tarantino,8.4,1317856,1
+tt2380307,Coco,2017,8,"Lee Unkrich, Adrian Molina",8.4,352455,0
+tt4154756,Avengers: Infinity War,2018,0,"Anthony Russo, Joe Russo",8.4,796486,1
+tt4154796,Avengers: Endgame,2019,0,"Anthony Russo, Joe Russo",8.4,754786,1
+tt4633694,Spider-Man: Into the Spider-Verse,2018,0,"Bob Persichetti, Peter Ramsey",8.4,335892,0
+tt5074352,Dangal,2016,0,Nitesh Tiwari,8.4,147907,0
+tt5311514,Your Name,2016,2,Makoto Shinkai,8.4,178480,0
 tt8267604,Capernaum,2018,6,Nadine Labaki,8.4,53506,0
-tt0012349,The Kid,1921,"4, 6, 8",Charles Chaplin,8.3,109038,0
-tt0017136,Metropolis,1927,"6, 16",Fritz Lang,8.3,156076,0
-tt0022100,M - A City Hunts a Murderer,1931,"5, 14, 17",Fritz Lang,8.3,139271,0
-tt0033467,Citizen Kane,1941,"6, 14",Orson Welles,8.3,389322,0
-tt0036775,Double Indemnity,1944,"5, 6, 9",Billy Wilder,8.3,139564,0
+tt0012349,The Kid,1921,4,Charles Chaplin,8.3,109038,0
+tt0017136,Metropolis,1927,16,Fritz Lang,8.3,156076,0
+tt0022100,M - A City Hunts a Murderer,1931,14,Fritz Lang,8.3,139271,0
+tt0033467,Citizen Kane,1941,14,Orson Welles,8.3,389322,0
+tt0036775,Double Indemnity,1944,9,Billy Wilder,8.3,139564,0
 tt0040522,Ladri di biciclette,1948,6,Vittorio De Sica,8.3,141507,0
 tt0044741,To Live,1952,6,Akira Kurosawa,8.3,65369,0
-tt0045152,Singin' in the Rain,1952,"4, 12, 15","Stanley Donen, Gene Kelly",8.3,213152,0
-tt0052357,Vertigo,1958,"14, 15, 17",Alfred Hitchcock,8.3,352786,0
-tt0053125,North by Northwest,1959,"1, 14, 17",Alfred Hitchcock,8.3,291628,0
-tt0053604,The Apartment,1960,"4, 6, 15",Billy Wilder,8.3,158999,0
-tt0056172,Lawrence of Arabia,1962,"1, 3, 6",David Lean,8.3,261504,0
+tt0045152,Singin' in the Rain,1952,15,"Stanley Donen, Gene Kelly",8.3,213152,0
+tt0052357,Vertigo,1958,14,Alfred Hitchcock,8.3,352786,0
+tt0053125,North by Northwest,1959,14,Alfred Hitchcock,8.3,291628,0
+tt0053604,The Apartment,1960,15,Billy Wilder,8.3,158999,0
+tt0056172,Lawrence of Arabia,1962,1,David Lean,8.3,261504,0
 tt0059578,For a Few Dollars More,1965,19,Sergio Leone,8.3,226039,0
-tt0062622,2001: A Space Odyssey,1968,"1, 16",Stanley Kubrick,8.3,587866,0
-tt0066921,A Clockwork Orange,1971,"5, 6, 16",Stanley Kubrick,8.3,740301,0
-tt0070735,The Sting,1973,"4, 5, 6",George Roy Hill,8.3,236285,0
-tt0075314,Taxi Driver,1976,"5, 6",Martin Scorsese,8.3,703264,0
-tt0082096,Das Boot,1981,"1, 6, 17",Wolfgang Petersen,8.3,226427,0
-tt0086190,Star Wars: Episode VI - Return of the Jedi,1983,"0, 1, 7",Richard Marquand,8.3,928036,1
-tt0086250,Scarface,1983,"5, 6",Brian De Palma,8.3,721343,0
-tt0086879,Amadeus,1984,"3, 6, 10",Milos Forman,8.3,361028,0
+tt0062622,2001: A Space Odyssey,1968,16,Stanley Kubrick,8.3,587866,0
+tt0066921,A Clockwork Orange,1971,5,Stanley Kubrick,8.3,740301,0
+tt0070735,The Sting,1973,4,George Roy Hill,8.3,236285,0
+tt0075314,Taxi Driver,1976,5,Martin Scorsese,8.3,703264,0
+tt0082096,Das Boot,1981,1,Wolfgang Petersen,8.3,226427,0
+tt0086190,Star Wars: Episode VI - Return of the Jedi,1983,7,Richard Marquand,8.3,928036,1
+tt0086250,Scarface,1983,5,Brian De Palma,8.3,721343,0
+tt0086879,Amadeus,1984,10,Milos Forman,8.3,361028,0
